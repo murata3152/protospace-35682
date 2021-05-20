@@ -7,6 +7,7 @@
 | profile    | text   | null: false |
 | occupation | text   | null: false |
 | password   | text   | null: false |
+| position   | text   | null: false |
 
 ## prototypes テーブル
 
